@@ -1,0 +1,43 @@
+{
+  "descrizione_generale": "Il video mostra l'ispezione visiva sottomarina di una condotta o cavo adagiato sul fondale. Vengono evidenziati elementi di protezione cilindrici danneggiati e tratti esposti a contatto con rocce e detriti legnosi.",
+  "ambiente": "Subacqueo, ottima visibilità, fondale misto sabbioso e roccioso con presenza di massi e detriti naturali.",
+  "soggetto_presente": "Condotta o cavo di piccolo diametro con relativi manicotti/pesi cilindrici di protezione.",
+  "segmenti": [
+    {
+      "da_secondi": 0,
+      "a_secondi": 8,
+      "cosa_si_vede": "Inquadratura di un elemento cilindrico di protezione (manicotto o peso) su fondale sabbioso, attraversato dalla condotta. Presente un tronco di legno sul lato sinistro."
+    },
+    {
+      "da_secondi": 8,
+      "a_secondi": 47,
+      "cosa_si_vede": "Tracciato della condotta/cavo completamente esposto che attraversa un'area rocciosa. Un grosso ramo/tronco poggia direttamente sopra l'asset."
+    },
+    {
+      "da_secondi": 47,
+      "a_secondi": 109,
+      "cosa_si_vede": "Sorvolo ravvicinato dell'elemento cilindrico di protezione che mostra un'apertura nella parte superiore, seguito dal tracciato della condotta su sabbia."
+    }
+  ],
+  "anomalie": [
+    {
+      "secondo": 5,
+      "etichetta": "Danneggiamento manicotto di protezione",
+      "severita": 2,
+      "confidenza": 0.9,
+      "osservazione": "Presenza di una vistosa apertura/rottura sulla parte superiore della struttura cilindrica di protezione.",
+      "diagnosi": "Degrado strutturale o danno da impatto meccanico sulla protezione esterna, che espone parzialmente la condotta sottostante.",
+      "azione": "Programmare un'ispezione strutturale mirata per valutare la stabilità del manicotto e l'eventuale necessità di ripristino della protezione."
+    },
+    {
+      "secondo": 18,
+      "etichetta": "Mancato interramento e interferenza detriti",
+      "severita": 2,
+      "confidenza": 0.9,
+      "osservazione": "La condotta è completamente esposta sul fondale roccioso, con un tronco di legno appoggiato sopra di essa.",
+      "diagnosi": "Assenza di copertura protettiva (interramento o materassi) che espone l'asset a rischi di abrasione contro le rocce sottostanti e sollecitazioni da detriti.",
+      "azione": "Valutare l'installazione di protezioni meccaniche locali (es. guaine o materassi) o la rimozione del detrito legnoso per evitare usura da sfregamento."
+    }
+  ],
+  "note_per_la_demo": "Il video è eccellente per un caso d'uso di ispezione di cavi e condotte sottomarine, poiché mostra chiaramente sia elementi di protezione danneggiati sia problematiche di free span e contatto con detriti su fondali misti."
+}

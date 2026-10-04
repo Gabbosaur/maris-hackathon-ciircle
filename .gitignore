@@ -1,0 +1,22 @@
+# Segreti
+.env
+**/.env
+
+# Video di ispezione (file pesanti, non versionati)
+*.mp4
+
+# Materiale di terzi, non redistribuibile
+regolamento-hackathon-ciircle.pdf
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Artefatti
+node_modules/
+__pycache__/
+*.pyc

@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "nome": "L'elemento cilindrico danneggiato che sormonta la condotta",
+    "secondo": 56.0,
+    "visibile": true,
+    "left_pct": 58.0,
+    "top_pct": 66.0,
+    "w_pct": 54.0,
+    "h_pct": 64.0
+  },
+  {
+    "n": 2,
+    "nome": "Il tronco di legno adagiato vicino al cavo",
+    "secondo": 20.0,
+    "visibile": true,
+    "left_pct": 54.0,
+    "top_pct": 57.5,
+    "w_pct": 18.0,
+    "h_pct": 13.0
+  },
+  {
+    "n": 3,
+    "nome": "Il tratto di cavo armato completamente esposto sul fondale roccioso",
+    "secondo": 25.0,
+    "visibile": true,
+    "left_pct": 50.0,
+    "top_pct": 58.5,
+    "w_pct": 100.0,
+    "h_pct": 53.0
+  },
+  {
+    "n": 4,
+    "nome": "La condotta non interrata sul fondale sabbioso nel terzo segmento",
+    "secondo": 62.0,
+    "visibile": true,
+    "left_pct": 54.0,
+    "top_pct": 72.5,
+    "w_pct": 12.0,
+    "h_pct": 55.0
+  }
+]
